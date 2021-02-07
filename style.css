@@ -1,0 +1,72 @@
+#logo{
+    color:blueviolet;
+    text-shadow: 2px 2px rgb(52, 3, 99);
+}
+#logo:hover{
+    color:rgb(37, 17, 226);
+    text-shadow: 2px 2px rgb(52, 3, 99);
+}
+
+.tick-icon{
+    color: green;
+}
+
+.input-form{
+    font-family: FontAwesome;
+}
+
+.nav-ancor{
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+
+.info{
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    padding: 30px 50px;
+    height: 40%;
+}
+
+.info h1,.info h5,.info p{
+margin: 0px;
+}
+.info-image{
+    overflow: hidden;
+    height: 250px;
+    width: 100%;
+    border-radius: 10px;
+}
+.item-colum{
+    margin-bottom: 50px;
+    border-radius: 10px;
+    
+}
+.food-title{
+    height: 35px;    
+}
+.card img{
+    height: 180px;
+    width: 100%;
+}
+.full-card{
+    border: 0px;
+    
+}
+.card-body{
+    background-color:#F8F7F5 ;
+    
+}
+#not-found-div{
+    display: none;
+}
+.not-found-text{
+    
+    margin: 10px 10em;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
